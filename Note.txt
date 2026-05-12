@@ -1,0 +1,8 @@
+Creating a Table 
+format :
+
+    CREATE TABLE Table_name (
+        col_name1 datatype, 
+        col_name2 datatype,
+        .....
+    );
