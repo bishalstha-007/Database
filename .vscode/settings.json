@@ -9,6 +9,16 @@
             "name": "postgres",
             "database": "postgres",
             "username": "postgres"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "SQL",
+            "database": "postgres",
+            "username": "postgres"
         }
     ],
     "python-envs.defaultEnvManager": "ms-python.python:venv"
